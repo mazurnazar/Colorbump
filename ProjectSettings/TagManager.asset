@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Friend
+  - StartLine
+  - FinishLine
+  - Enemy
+  - ChangeColor
+  - Ball
   layers:
   - Default
   - TransparentFX

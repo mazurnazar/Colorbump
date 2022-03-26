@@ -24,11 +24,8 @@ public class GameManager : MonoBehaviour
     public void StartGame()
     {
         GameStarted = true;
-        Debug.Log("GameStarted");
         startPanel.SetActive(false);
         pressFinger.SetActive(false);
-        
-        
     }
     public void TryAgain()
     {
